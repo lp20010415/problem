@@ -1,0 +1,18 @@
+Forge version is 14.23.5.2855
+I tested it with only Galaxy mod
+The mods were as follows
+GalacticraftCore-1.12.2-4.0.2.281.jar
+Galacticraft-Planets-1.12.2-4.0.2.281.jar
+MicdoodleCore-1.12.2-4.0.2.281.jar
+There is a problem that the reward box overflows and does not generate a boss. Here is my Demo Video
+link:https://youtu.be/v2trY0CmRdI
+
+Forge版本是14.23.5.2855
+我是在只有星系mod的情况下测试的
+mod为:
+GalacticraftCore-1.12.2-4.0.2.281.jar
+Galacticraft-Planets-1.12.2-4.0.2.281.jar
+MicdoodleCore-1.12.2-4.0.2.281.jar
+
+出现了奖励箱物品溢出且不生成BOSS的问题，这边是我的演示视频
+link:https://youtu.be/v2trY0CmRdI
